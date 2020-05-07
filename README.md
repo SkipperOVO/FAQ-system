@@ -6,6 +6,8 @@ FAQ 模块主要使用**基于语义融合的 VSM 算法**进行答案过滤,过
 
 运行结果：
 
+(若图片无法加载，请开代理或者确保：raw.githubusercontent.com 可访问)
+
 <img src="runImage/Screenshot_2020-05-07-11-01-31-053_personal.skipp.jpg" width="350px" height="650px">
 
 <img src="runImage/Screenshot_2020-05-07-11-01-51-691_personal.skipp.png" width="350px" height="1050px">
