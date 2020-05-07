@@ -12,3 +12,6 @@ FAQ 模块主要使用**基于语义融合的 VSM 算法**进行答案过滤,过
 
 
 
+<img src="runImage/Screenshot_2020-05-04-17-52-26-742_personal.skipp.jpg" width="450px" height="750px">
+
+<img src="runImage/Screenshot_2020-05-04-17-52-08-938_personal.skipp.jpg" width="450px" height="750px">
